@@ -1,15 +1,7 @@
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/yuenwk">
@@ -17,15 +9,8 @@
   </a>
 </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+
+![snake](https://raw.githubusercontent.com/yuenwk/yuenwk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snake](https://raw.githubusercontent.com/yuenwk/yuenwk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
